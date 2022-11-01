@@ -1,0 +1,1 @@
+<h1 style="color:blue; margin-left:450px; margin-top:150px;"><b>Hello Laravel</b> </h1>
